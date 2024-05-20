@@ -1,2 +1,2 @@
 # inventory-mgmt
-A cloud Inventory
+SignalR and MSSQL
